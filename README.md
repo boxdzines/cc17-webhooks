@@ -3,3 +3,4 @@
 # first send to snow
 # send payload to table
 # second payload test
+# send payload and fire workflow
